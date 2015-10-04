@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <declare-styleable name="BackgroundDrawer">
+        <attr name="topPadding" format="float" />
+
+        <attr name="x_outer" format="float" />
+        <attr name="y_outer" format="float" />
+        <attr name="radius_outer" format="float" />
+
+        <attr name="x_inner" format="float" />
+        <attr name="y_inner" format="float" />
+        <attr name="radius_inner" format="float" />
+
+        <attr name="triangle_height" format="float" />
+        <attr name="triangle_width" format="float" />
+
+    </declare-styleable>
+</resources>
